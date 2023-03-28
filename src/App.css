@@ -358,7 +358,6 @@ footer Form {
   margin: 0.125rem 0.625rem;
   white-space: nowrap;
 }
-/* one before the last child */
 .ft-legal-list  {
     display: flex;
     justify-content: space-between;
@@ -371,7 +370,7 @@ footer Form {
   text-align: center;
   text-decoration: none;
 }
-/* Add a hover effect if you want */
+
 .fa {
   padding: 20px;
   font-size: 30px;

@@ -29,17 +29,17 @@ class Footer extends Component {
                         <div class="ft-main-item">
                         <h2 class="ft-title">ABOUT</h2>
                         <ul>
-                            <li><a href="#">Services</a></li>
+                            <li><a href="https://about.google/products/">Services</a></li>
                             <li><a href="#">Portfolio</a></li>
                         </ul>
                         </div>
                         <div class="ft-main-item">
                         <h2 class="ft-title">RESOURCES</h2>
                         <ul>
-                            <li><a href="#">Docs</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">eBooks</a></li>
-                            <li><a href="#">Webinars</a></li>
+                            <li><a href="https://www.google.com/docs/about/">Docs</a></li>
+                            <li><a href="https://blog.sepscience.com/foodscience">Blog</a></li>
+                            <li><a href="https://www.barnesandnoble.com/b/free-ebooks/ebooks-nook/diet-health-fitness/diet-nutrition/_/N-ry0Z8qaZ11j8">eBooks</a></li>
+
                         </ul>
                         </div>
                         <div class="ft-main-item">
@@ -70,7 +70,7 @@ class Footer extends Component {
                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fa fa-github"></i></a></li>
+                        <li><a href="https://github.com/prachetyerr/nutrify-app-webathon"><i class="fa fa-github"></i></a></li>
                         <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                         </ul>
                     </section>
@@ -78,7 +78,7 @@ class Footer extends Component {
                         <ul class="ft-legal-list">
                         <li><a href="#">Terms &amp; Conditions</a></li>
                         <li><a href="#">Privacy Policy</a></li>
-                        <li>&copy; 2021 Copyright Team Code Mergers</li>
+                        <li>&copy; 2023 Copyright TEAM ELFTHANOS</li>
                         </ul>
                     </section>
                 </div>

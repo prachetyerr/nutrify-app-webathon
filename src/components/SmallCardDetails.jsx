@@ -9,7 +9,7 @@ const SmallCardDetails = [
         title: "Upload through URL",
         text: "Click here to use URL",
         image: img7,
-        url: "./#",
+        url: "http://9c89-34-83-247-28.ngrok.io/",
         button: "Click Here"
     },
     {
@@ -17,7 +17,7 @@ const SmallCardDetails = [
         title: "Upload through Media",
         text: "Browse through images on desktop",
         image: img8,
-        url: "./#",
+        url: "http://9c89-34-83-247-28.ngrok.io/",
         button: "Upload"
     }
 
