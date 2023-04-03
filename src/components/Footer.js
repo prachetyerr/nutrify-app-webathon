@@ -47,7 +47,7 @@ class Footer extends Component {
                         <ul>
                             <li><a href="#">Help</a></li>
                             <li><a href="#">Sales</a></li>
-                            <li><a href="#">Advertise</a></li>
+                            <li><a href="#">More Info</a></li>
                         </ul>
                         </div>
                         <div id="ourfeedback" class="ft-main-item">
